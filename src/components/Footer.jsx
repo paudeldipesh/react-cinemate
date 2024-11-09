@@ -14,7 +14,7 @@ export const Footer = () => {
         <ul className="flex flex-wrap justify-center items-center text-sm font-medium text-gray-500 dark:text-gray-400">
           <li>
             <a
-              href="https://www.facebook.com/dipeshpaudelofficial"
+              href="https://www.facebook.com/xegernen"
               target="_blank"
               className="hover:underline me-4 md:me-6"
               rel="noreferrer"
